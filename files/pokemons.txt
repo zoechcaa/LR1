@@ -1,0 +1,29 @@
+<pokemons>
+	<pokemon name=Meowth>
+		<hp>4000</hp>
+		<attack>0</attack>
+		<defense>268501009</defense>
+		<speed>0</speed>
+		<special attack>12345</special attack>
+		<special defense>300</special defense>
+	</pokemon>
+
+	<pokemon name=Pidgeotto>
+		<hp>5060</hp>
+		<attack>5000</attack>
+		<defense>970</defense>
+		<speed>100</speed>
+		<special attack>3800</special attack>
+		<special defense>700</special defense>
+	</pokemon>
+
+	<pokemon name=Pikachu>
+		<hp>400</hp>
+		<attack>9200</attack>
+		<defense>6749384</defense>
+		<speed>0</speed>
+		<special attack>50000</special attack>
+		<special defense>4500</special defense>
+	</pokemon>
+</pokemons>
+
